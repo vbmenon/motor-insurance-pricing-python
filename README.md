@@ -38,7 +38,7 @@ This notebook focuses primarily on the frequency component because the current d
 - vehicle characteristics
 - regional information
 
-but does not yet include detailed claim amount severity information.
+but does not yet include detailed claim amount severity information. This project will be used as a space to expand towards including severity models, GLM's and comparison with other machine learning techniques
 
 ---
 
@@ -54,15 +54,15 @@ Key variables include:
 |---|---|
 | ClaimNb | Number of claims |
 | Exposure | Policy exposure duration |
-| DrivAge | Driver age |
-| VehAge | Vehicle age |
-| VehPower | Vehicle power category |
-| BonusMalus | Risk/bonus score |
 | Area | Area category |
-| Region | Geographic region |
-| Density | Population density |
-| VehGas | Fuel type |
+| VehPower | Vehicle power category |
+| VehAge | Vehicle age |
+| DrivAge | Driver age |
+| BonusMalus | Risk/bonus score |
 | VehBrand | Vehicle brand category |
+| VehGas | Fuel type |
+| Density | Population density |
+| Region | Geographic region |
 
 ---
 
