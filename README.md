@@ -38,7 +38,7 @@ This notebook focuses primarily on the frequency component because the current d
 - vehicle characteristics
 - regional information
 
-but does not yet include detailed claim amount severity information.
+but does not yet include detailed claim amount severity information. This project will be used as a space to expand towards including severity models, GLM's and comparison with other machine learning techniques
 
 ---
 
